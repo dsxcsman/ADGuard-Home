@@ -1,0 +1,3 @@
+# Blacklisted domains (and their subdomains)
+
+ota.nvidia.com # Remove ota.nvidia.com for SHIELD
